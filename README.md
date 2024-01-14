@@ -1,4 +1,4 @@
-## 👋 Ola eu sou Felipe
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=38C2FF&random=false&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+Eu+sou+Felipe+Takahashi)](https://git.io/typing-svg)
  - Estudante ETEC ANTONIO DEVISATE
 
 
