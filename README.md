@@ -14,7 +14,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipe-takayuki&repo=Z-defenseAPI)](https://github.com/Felipe-Takayuki/Z-defenseAPI.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipe-takayuki&repo=LanchoneteJava)](https://github.com/Felipe-Takayuki/LanchoneteJava.git)
 ## 
-[![Felipe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipe-Takayuki&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
