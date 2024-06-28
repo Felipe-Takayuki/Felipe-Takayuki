@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou Felipe..
+- 👋 Olá, Eu sou Felipe.
 - 👀 Tenho interesse em programação em geral, porém estou focado em programação backend atualmente.
 - Estudante 3º ano do ensino médio integrado ao técnico.
   
