@@ -3,4 +3,4 @@
 - Técnico em Desenvolvimento de Sistemas `(ETEC ANTÔNIO DEVISATE)`
 - Cursando Sistemas Inteligentes `(FATEC SHUNJI NISHIMURA)`
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,mysql,go,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,react,angular,java,mysql,go,php,python)](https://skillicons.dev)
