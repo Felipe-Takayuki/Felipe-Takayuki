@@ -1,5 +1,7 @@
-- 👋 Olá, Eu sou Felipe.
-- 👀 Tenho interesse em programação em geral, porém estou focado em programação backend atualmente.
+### 👋 Olá, Eu sou Felipe.
+-----
+Formação
+
 - Técnico em Desenvolvimento de Sistemas `(ETEC ANTÔNIO DEVISATE)`
 - Cursando Sistemas Inteligentes `(FATEC SHUNJI NISHIMURA)`
 
