@@ -1,4 +1,4 @@
-### 👋 Olá, Eu sou Felipe.
+### Olá, Eu sou Felipe.
 -----
 Formação
 
